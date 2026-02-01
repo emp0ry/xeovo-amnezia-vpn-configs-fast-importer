@@ -4,9 +4,6 @@ import os
 import tkinter as tk
 from tkinter import filedialog
 
-# Change working directory to script's directory
-os.chdir(os.path.dirname(__file__))
-
 def parse_conf_file(conf_path):
     # Initialize config parser
     config = configparser.ConfigParser()
@@ -64,7 +61,7 @@ def create_amnezia_backup(conf_data, output_path, conf_path):
         'br': 'Brazil, São Paulo',
         'ca': 'Canada, Montreal',
         'ch': 'Switzerland, Zurich',
-        'de': 'Germany, Nuremberg',
+        'de': 'Germany, Falkenstein',
         'fi': 'Finland, Helsinki',
         'fr': 'France, Paris',
         'jp': 'Japan, Tokyo',
@@ -73,7 +70,7 @@ def create_amnezia_backup(conf_data, output_path, conf_path):
         'nl': 'Netherlands, Amsterdam',
         'no': 'Norway, Sandefjord',
         'pl': 'Poland, Warsaw',
-        'ro': 'Romania, Bucharest',
+        'ro': 'Romania, Iasi',
         'se': 'Sweden, Stockholm',
         'sg': 'Singapore, Singapore',
         'ua': 'Ukraine, Kyiv',
