@@ -292,7 +292,6 @@ Delete after import if not needed.
 
 * Default port fallback: **51820**
 * Output always saved next to script
-* Works with both **AmneziaWG** and **AWG**
 * No network calls, fully offline
 
 ---
