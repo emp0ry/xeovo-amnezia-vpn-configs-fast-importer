@@ -64,6 +64,8 @@ def create_amnezia_backup(conf_data, output_path, conf_path):
         'de': 'Germany, Nuremberg',
         'fi': 'Finland, Helsinki',
         'fr': 'France, Paris',
+        'ie': 'Ireland, Dublin',
+        'it': 'Italy, Milan',
         'jp': 'Japan, Tokyo',
         'lu': 'Luxembourg, Roost',
         'lv': 'Latvia, Riga',
@@ -72,13 +74,14 @@ def create_amnezia_backup(conf_data, output_path, conf_path):
         'pl': 'Poland, Warsaw',
         'ro': 'Romania, Bucharest',
         'se': 'Sweden, Stockholm',
-        'sg': 'Singapore, Singapore',
+        'sg': 'Singapore',
+        'tr': 'Turkey, Istanbul',
         'ua': 'Ukraine, Kyiv',
-        'uk': 'United Kingdom, London',
-        'us-lv': 'United States, Las Vegas',
-        'us-mia': 'United States, Miami',
-        'us-nyc': 'United States, New York',
-        'random': 'Random'
+        'uk': 'UK, London',
+        'us-lv': 'USA, Las Vegas',
+        'us-mia': 'USA, Miami',
+        'us-nyc': 'USA, New York',
+        'random': 'Random',
     }
 
     # Read the original .conf file content
