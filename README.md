@@ -61,31 +61,34 @@ Ready to import into:
 
 The generated backup contains:
 
-| Code | Location |
-|------|----------|
-| al | Albania (Tirana) |
-| au | Australia (Sydney) |
-| br | Brazil (São Paulo) |
-| ca | Canada (Montreal) |
-| ch | Switzerland (Zurich) |
-| de | Germany (Falkenstein) |
-| fi | Finland (Helsinki) |
-| fr | France (Paris) |
-| jp | Japan (Tokyo) |
-| lu | Luxembourg (Roost) |
-| lv | Latvia (Riga) |
-| nl | Netherlands (Amsterdam) |
-| no | Norway (Sandefjord) |
-| pl | Poland (Warsaw) |
-| ro | Romania (Iasi) |
-| se | Sweden (Stockholm) |
-| sg | Singapore |
-| ua | Ukraine (Kyiv) |
-| uk | United Kingdom (London) |
-| us-lv | USA (Las Vegas) |
-| us-mia | USA (Miami) |
-| us-nyc | USA (New York) |
-| random | Random |
+| Code   | Location                |
+| ------ | ----------------------- |
+| al     | Albania (Tirana)        |
+| au     | Australia (Sydney)      |
+| br     | Brazil (São Paulo)      |
+| ca     | Canada (Montreal)       |
+| ch     | Switzerland (Zurich)    |
+| de     | Germany (Nuremberg)     |
+| fi     | Finland (Helsinki)      |
+| fr     | France (Paris)          |
+| ie     | Ireland (Dublin)        |
+| it     | Italy (Milan)           |
+| jp     | Japan (Tokyo)           |
+| lu     | Luxembourg (Roost)      |
+| lv     | Latvia (Riga)           |
+| nl     | Netherlands (Amsterdam) |
+| no     | Norway (Sandefjord)     |
+| pl     | Poland (Warsaw)         |
+| ro     | Romania (Bucharest)     |
+| se     | Sweden (Stockholm)      |
+| sg     | Singapore               |
+| tr     | Turkey (Istanbul)       |
+| ua     | Ukraine (Kyiv)          |
+| uk     | UK (London)             |
+| us-lv  | USA (Las Vegas)         |
+| us-mia | USA (Miami)             |
+| us-nyc | USA (New York)          |
+| random | Random                  |
 
 ---
 
